@@ -15,7 +15,7 @@
     <img  src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
    <img  src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
    <img  src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-   <img src="https://github.com/user-attachments/assets/fce01b38-981f-47b9-87df-80036d6a2736"width="250px" align="right" borderRadius="100px" />  
+   <img src="https://github.com/user-attachments/assets/4186a81a-e0c7-4b07-a153-8e2873b6ae62" width="250px" align="right" borderRadius="100px" />  
 </div>
 
 
