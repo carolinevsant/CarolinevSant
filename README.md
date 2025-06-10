@@ -15,7 +15,7 @@
     <img  src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
    <img  src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
    <img  src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-   <img src="https://github.com/user-attachments/assets/4186a81a-e0c7-4b07-a153-8e2873b6ae62" width="250px" align="right" borderRadius="100px" />  
+   <img src="https://github.com/user-attachments/assets/bc9b3352-dfa4-4929-a003-c838f29e1c3e" width="250px" align="right" borderRadius="100px" />  
 </div>
 
 
@@ -25,11 +25,9 @@
   <a href = "carolinesantibanezv@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=header"/>
 
- <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{alanagabriele}/count.svg" /></p> 
-<br>
-</div>
+
+
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F7374F&height=120&section=footer"/>
 
